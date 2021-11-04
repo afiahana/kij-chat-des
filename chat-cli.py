@@ -8,7 +8,7 @@ import sys
 
 # from des import des
 
-TARGET_IP = "20.212.51.105"
+TARGET_IP = "10.0.0.5"
 TARGET_PORT = 8889
 key = "kuncirahasia"
 ENCRYPT = 1
